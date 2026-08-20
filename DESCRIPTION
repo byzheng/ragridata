@@ -2,8 +2,8 @@ Package: agridata
 Type: Package
 Title: R Interface to access datasets related with agriculture
 Version: 0.0.2
-Author: Bangyou Zheng
-Maintainer: Bangyou Zheng <Bangyou.Zheng@csiro.au>
+Authors@R: 
+    person("Bangyou", "Zheng", email = "zheng.bangyou@gmail.com", role = c("aut", "cre"))
 Description: It is challenge to access datasets from multiple resources. agridata provides an unique interface to access datasets.
 License: MIT + file LICENSE
 Encoding: UTF-8
