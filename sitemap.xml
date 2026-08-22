@@ -1,13 +1,13 @@
 <urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url><loc>/404.html</loc></url>
-<url><loc>/LICENSE-text.html</loc></url>
-<url><loc>/authors.html</loc></url>
-<url><loc>/index.html</loc></url>
-<url><loc>/reference/agridata_options.html</loc></url>
-<url><loc>/reference/agridata_reset.html</loc></url>
-<url><loc>/reference/asris_soil.html</loc></url>
-<url><loc>/reference/index.html</loc></url>
-<url><loc>/reference/silo_grid.html</loc></url>
-<url><loc>/reference/silo_ppd.html</loc></url>
+<url><loc>https://agridata.bangyou.me/404.html</loc></url>
+<url><loc>https://agridata.bangyou.me/LICENSE-text.html</loc></url>
+<url><loc>https://agridata.bangyou.me/authors.html</loc></url>
+<url><loc>https://agridata.bangyou.me/index.html</loc></url>
+<url><loc>https://agridata.bangyou.me/reference/agridata_options.html</loc></url>
+<url><loc>https://agridata.bangyou.me/reference/agridata_reset.html</loc></url>
+<url><loc>https://agridata.bangyou.me/reference/asris_soil.html</loc></url>
+<url><loc>https://agridata.bangyou.me/reference/index.html</loc></url>
+<url><loc>https://agridata.bangyou.me/reference/silo_grid.html</loc></url>
+<url><loc>https://agridata.bangyou.me/reference/silo_ppd.html</loc></url>
 </urlset>
 
